@@ -1,6 +1,7 @@
-# Welcome to Neo-X Corporation
+# NEO-X Corporation
+# Data | Intelligence | Future
 
-We are an IT company resides in Indonesia. Our focus is on engineering the data, software, and AI. Neo-X Corporation consists of:
+We are an IT company resides in Indonesia. Our focus is on engineering the data, software, and AI. NEO-X Corporation consists of:
 
-1. [Neo-X Labs](https://github.com/Neo-X-Labs)
-2. [Neo-X School](https://github.com/Neo-X-School)
+1. [NEO-X Labs](https://github.com/NEO-X-Labs)
+2. [NEO-X School](https://github.com/NEO-X-School)
