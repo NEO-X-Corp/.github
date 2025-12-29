@@ -1,7 +1,6 @@
 # Welcome!
 
-**PT Neo Akselerasi Indonesia**
-
+**PT Neo Akselerasi Indonesia** <br />
 *Data | Intelligence | Future*
 ---
 
