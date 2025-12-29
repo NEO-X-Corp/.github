@@ -1,7 +1,8 @@
 # Welcome!
 
->> PT Neo Akselerasi Indonesia
->> Data | Intelligence | Future
+**PT Neo Akselerasi Indonesia**
+---
+*Data | Intelligence | Future*
 
 We are an IT company resides in Indonesia. Our focus is on engineering the data, software, and AI. NEO-X Corporation consists of:
 
